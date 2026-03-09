@@ -196,8 +196,7 @@ facebook/react
 
 ~~~text
 github-repo-health-copilot/
-├── app/
-│   └── main.py
+├── main.py
 ├── requirements.txt
 └── README.md
 ~~~
@@ -242,27 +241,3 @@ This project was prototyped and deployed using **Zerve**, an AI-native analytics
 The resulting dashboard was then manually refined, validated, and tested across multiple public repositories to improve clarity, correctness, and usability.
 
 ---
-
-## 🙌 Acknowledgments
-
-- **GitHub REST API** for public repository data
-- **Streamlit** for the dashboard interface
-- **Zerve** for rapid analytics workflow prototyping and deployment
-
----
-
-## 📬 Contact
-
-**Krishna Sreepriya Menon**  
-GitHub: https://github.com/lakki12233
-
----
-
-## 📄 License
-
-This project is intended for portfolio, evaluation, and learning purposes.
-
-If you plan to open-source it formally, you can later add a license such as:
-- MIT License
-- Apache 2.0
-- BSD 3-Clause
